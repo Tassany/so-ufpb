@@ -1,0 +1,3 @@
+g++ Fcfs.cpp Sjf.cpp Rr.cpp main.cpp
+
+./a.out

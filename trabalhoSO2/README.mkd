@@ -1,0 +1,3 @@
+g++ Fifo.cpp Otm.cpp Lru.cpp main.cpp
+
+./a.out
